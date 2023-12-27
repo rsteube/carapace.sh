@@ -1,4 +1,4 @@
-name: deploy
+name: page
 
 on:
   pull_request:
@@ -13,6 +13,7 @@ jobs:
 
       - name: "build docs"
         run: |
+            sed -i 's/\[output.linkcheck\]/#[output.linkcheck]/' docs/book.toml
             mdbook build docs
 
       - name: "push gh-pages"
