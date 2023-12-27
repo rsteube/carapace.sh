@@ -8,7 +8,6 @@ jobs:
   doc:
     runs-on: ubuntu-latest
     container: ghcr.io/rsteube/carapace
-    needs: build
     steps:
       - uses: actions/checkout@v3
 
