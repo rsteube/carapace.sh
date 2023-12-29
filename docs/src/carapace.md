@@ -41,7 +41,7 @@ Complete as **[MultiParts](https://rsteube.github.io/carapace/carapace/defaultAc
 
 ## Versatile
 
-Create custom **[Specs](https://rsteube.github.io/carapace-bin/spec.html)**.
+Write custom **[Specs](https://rsteube.github.io/carapace-bin/spec.html)**.
 ![80x12@0:27](./carapace/spec.cast)
 
 Leverage existing **[Macros](https://rsteube.github.io/carapace-bin/spec/macros.html)**.
