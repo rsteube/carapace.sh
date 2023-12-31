@@ -1,5 +1,4 @@
 {"version": 2, "width": 80, "height": 12, "timestamp": 1703694443, "env": {"SHELL": "elvish", "TERM": "tmux-256color"}}
-[0.016355, "o", "elvish\r\n"]
 [0.036479, "o", "\u001b[?7h\u001b[7m⏎\u001b[m                                                                               \r \r\u001b[?7l\u001b[?2004h\u001b[?25l\r???>                                                                       ???> \r\u001b[5C\u001b[?25h"]
 [0.036724, "o", "\u001b[?25l\r\u001b[5C\u001b[K\r\u001b[5C\u001b[?25h"]
 [0.052167, "o", "\u001b[?25l\r\r\u001b[5C\u001b[?25h"]
