@@ -19,7 +19,7 @@ Give feedback with **[Messages](https://rsteube.github.io/carapace/carapace/defa
 
 ## Fast
 
-Complete in **~10ms**.
+Run in **~10ms**.
 ![80x12@0:20](./carapace/static.cast)
 
 **[Cache](https://rsteube.github.io/carapace/carapace/action/cache.html)** slow completions.
@@ -30,7 +30,7 @@ Invoke concurrent **[Batch](https://rsteube.github.io/carapace/carapace/batch.ht
 
 ## Complex
 
-Update **[Structure](https://rsteube.github.io/carapace/carapace/gen/preRun.html)** and add **[Modifications](https://rsteube.github.io/carapace/carapace/gen/preInvoke.html)**.
+Add **[Plugins](https://rsteube.github.io/carapace/carapace/gen/preRun.html)** and change **[Workdir](https://rsteube.github.io/carapace/carapace/gen/preInvoke.html)**.
 ![80x12@0:52](./carapace/modify.cast)
 
 **[Embed](https://rsteube.github.io/carapace-bin/spec/embed.html)** continuously.
