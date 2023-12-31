@@ -19,8 +19,8 @@ Give feedback with **[Messages](https://rsteube.github.io/carapace/carapace/defa
 
 ## Fast
 
-Run in **~10ms**.
-![80x12@0:20](./carapace/static.cast)
+**[Export](https://rsteube.github.io/carapace/carapace/export.html)** in milliseconds.
+![80x12@0:20](./carapace/export.cast)
 
 **[Cache](https://rsteube.github.io/carapace/carapace/action/cache.html)** slow completions.
 ![80x12@0:17](./carapace/cache.cast)
