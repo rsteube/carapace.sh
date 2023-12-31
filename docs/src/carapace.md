@@ -20,7 +20,7 @@ Give feedback with **[Messages](https://rsteube.github.io/carapace/carapace/defa
 ## Fast
 
 Complete in **~10ms**.
-![80x12@0:18](./carapace/static.cast)
+![80x12@0:20](./carapace/static.cast)
 
 **[Cache](https://rsteube.github.io/carapace/carapace/action/cache.html)** slow completions.
 ![80x12@0:17](./carapace/cache.cast)
