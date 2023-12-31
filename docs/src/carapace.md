@@ -19,8 +19,8 @@ Give feedback with **[Messages](https://rsteube.github.io/carapace/carapace/defa
 
 ## Fast
 
-**[Setup](https://rsteube.github.io/carapace-bin/setup.html)** in one step.
-![80x12@0:11.5](./carapace/overhead.cast)
+Complete in **~10ms**.
+![80x12@0:18](./carapace/static.cast)
 
 **[Cache](https://rsteube.github.io/carapace/carapace/action/cache.html)** slow completions.
 ![80x12@0:17](./carapace/cache.cast)
