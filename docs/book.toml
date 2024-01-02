@@ -9,7 +9,7 @@ description = "A multi-shell completion library and binary. Supports Bash, Elvis
 [output.html]
 default-theme = "Latte"
 preferred-dark-theme = "Mocha"
-additional-css = ["asciinema/asciinema-player.css", "./theme/catppuccin.css"]
+additional-css = ["asciinema/asciinema-player.css", "./theme/catppuccin.css", "./theme/custom.css"]
 additional-js = ["asciinema/asciinema-player.min.js", "asciinema/load.js"]
 git-repository-url = "https://github.com/rsteube/carapace.sh"
 edit-url-template = "https://github.com/rsteube/carapace.sh/edit/master/docs/{path}"
